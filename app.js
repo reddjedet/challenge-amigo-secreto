@@ -45,5 +45,18 @@ function mantenerListadoAmigos() {
     }
 }
 
+//Fn sortearAmigo, ul id=resultado
+function sortearAmigo() {
+    let mostrarGanador = document.getElementById('resultado'); //Preparar la modificación del DOM
 
+    if (listadoNombres.length != 0) { //Comprobar que el array tenga contenido
+        let sortea = Math.floor(Math.random() * listadoNombres.length); //Elige indice aleatorio existente
+        let seleccionado = listadoNombres[sortea]; //El ganador tiene nombre
+        console.log(`El índice seleccionado es ${sortea}, que corresponde a ${seleccionado}`); //control
+
+        mostrarGanador.innerHTML += `<li>El amigo secreto sorteado es: ${seleccionado}</li>`;
+    } else {
+        console.log('No ingresaste ningún nombre');
+    }
+}
 
