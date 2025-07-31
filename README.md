@@ -30,4 +30,4 @@
 *[Descripción del proyecto](#descripción-del-proyecto)
 ###### lorem ipsum
 ## Autores
-[<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Christian Quidel</sub>](https://github.com/reddjedet) 
+[<img src="" width=115><br><sub>Christian Quidel</sub>](https://github.com/reddjedet) 
