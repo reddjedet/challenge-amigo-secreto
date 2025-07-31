@@ -15,13 +15,13 @@
 
 <br>
 
-- [x] Crear un readme
-- [X] Información sobre la instalación
-- [X] Cómo ejecutar el proyecto
-- [X] Posibles problemas y soluciones
-- [X] Detalla sus funcionalidades
+- [X] Crear un readme
+- [ ] Información sobre la instalación
+- [ ] Cómo ejecutar el proyecto
+- [ ] Posibles problemas y soluciones
+- [ ] Detalla sus funcionalidades
 - [X] Incluir capturas de pantalla ilustativas
-- [X] Accesibilidad
+- [ ] Accesibilidad
 
 <br>
 
@@ -34,7 +34,7 @@
 > Piensa en una lista de amigos para ingresarlos a la simulación.
 
 > [!IMPORTANT]
-> Es importante que dispongas de Visual Studio Code y Git instalados en tu pc.
+> Es importante que dispongas de Visual Studio Code (con live server) y Git instalados en tu pc.
 
 > [!CAUTION]
 > Sigue las instrucciones al detalle para evitar inconvenientes.
@@ -43,14 +43,14 @@
 
 ## Instalación
 <img width="851" height="419" alt="Descarga el proyecto" src="https://github.com/user-attachments/assets/d58ff3b6-1b58-421b-8825-d3c6c61f42ec" />  
-<br>
+  
 Crea una carpeta en una ubicación accesible, por ejemplo C:\Users\<tu_usuario>\OneDrive\, y llamala "git-y-github".  
 Dirígete a la página del [proyecto](https://github.com/reddjedet/challenge-amigo-secreto) y descárgalo en dicha ubicación.  
-<br>
+  
 <img width="463" height="677" alt="Arrastrar" src="https://github.com/user-attachments/assets/c9705dd7-8b9e-4c12-8559-0e18b7d1f2a3" />  
-<br>
+  
 Arrastra la nueva carpeta hasta un espacio vacío en Visual Studio Code  
-<br>
+  
 
 
 ## Cómo ejecutar el proyecto
